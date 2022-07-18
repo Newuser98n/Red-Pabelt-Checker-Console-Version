@@ -47,7 +47,7 @@ int main()
 for(int f=0; f < liczbaocen ;f++ )
 {
 
-suma = suma + oceny[f];
+suma = suma + oceny[i];
 
 
 
@@ -58,9 +58,8 @@ suma = suma + oceny[f];
 
 }
 
-srednia = suma / liczbaocen ;
 
-cout << srednia ;
+
 
 
 
