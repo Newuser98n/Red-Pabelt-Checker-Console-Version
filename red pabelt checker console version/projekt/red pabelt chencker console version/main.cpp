@@ -36,6 +36,8 @@ int main()
 
         cin >> oceny[i];
 
+        #test
+
 
 
 
