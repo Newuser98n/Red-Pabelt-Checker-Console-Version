@@ -16,7 +16,7 @@ int main()
 
     float wsdcp = 4.75;
 
-    int suma = 0;
+    float suma = 0;
 
     float srednia;
 
@@ -25,7 +25,7 @@ int main()
 
     cin >> liczbaocen;
 
-    int oceny [liczbaocen];
+    float oceny [liczbaocen];
 
     for(int i=0; i < liczbaocen; i++)
     {
@@ -36,7 +36,7 @@ int main()
 
         cin >> oceny[i];
 
-        #test
+
 
 
 
@@ -63,6 +63,7 @@ suma = suma + oceny[f];
 srednia = suma / liczbaocen ;
 
 cout << srednia ;
+
 
 
 
